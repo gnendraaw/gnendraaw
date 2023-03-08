@@ -16,9 +16,8 @@
 
 ### About me:
 People call me "nen" or "dell", and I am a High School Software Engineer student from Bali, Indonesia.
-- Indie Game Developer wanna be
 - Currently learning Flutter and Game Dev with Unity
-- I do photography, and video editing in my spare time
+- I do photography, typography and video editing in my spare time
 
 ### Language & Tools I use:
 <div>
