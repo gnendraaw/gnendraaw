@@ -33,7 +33,6 @@ People call me "nen" or "dell", and I am a High School Software Engineer student
 
 ### Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gnendraaw&theme=aura&border_radius=0)](https://git.io/streak-stats)
-![Gnendraaw GitHub stats](https://github-readme-stats.vercel.app/api?username=gnendraaw&show_icons=true&theme=radical)
 
 ### Reach me at:
 :mailbox: itsgnendraaw@gmail.com
